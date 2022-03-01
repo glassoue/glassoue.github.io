@@ -1,3 +1,5 @@
+<!---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/glassoue/glassoue.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -36,6 +38,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
+-->
 
 ## Introduction 
 Dans le cadre du cours MOS 4.4 Nouvelles Technologies de l'Information et de la Communication à l’Ecole Centrale de Lyon, j’ai fait une veille technologique sur la thématique Le Machine Learning dans le monde du retail. 
@@ -368,9 +371,9 @@ La technique est un outil important pour prospérer et faire progresser les sect
 -----------------------------------------------------------------------------------------------------------------------
 -->
 ## Acronymes
-ML : machine learning 
-IoT: internet of things 
-B2B : business to business
-B2C: business to consumer 
-RA: réalité augmenté
-NLP: naturale language processing 
+- ML : machine learning 
+- IoT: internet of things 
+- B2B : business to business
+- B2C: business to consumer 
+- RA: réalité augmenté
+- NLP: naturale language processing 
