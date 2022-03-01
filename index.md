@@ -66,7 +66,7 @@ Maintenant, le retail s’est enrichie. En plus des méthodes traditionnelles, o
 ## Cas d’usage du Machine Learning en retail
 
 McKinsey parle du “e-commerce boom”. Avec les vagues de covid, l’e-comemrce a fait un progrès équivalent de 10 ans en seulement 3 mois. 
-![mckinsey-covid-boom-ecommerce](/glassoue.github.io/images/mckinsey-covid-boom-ecommerce.png)
+![mckinsey-covid-boom-ecommerce](/images/mckinsey-covid-boom-ecommerce.png)
 
 On présente quelques cas d’usage connus: 
 
